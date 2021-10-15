@@ -93,7 +93,7 @@ const Footer = () => {
           WEAR A FACE MASK WHEN YOU GO OUT.
           Follow your commiunity guidelines for stay home.
           When you do go out in public, leave at least 6 feet on space between you and others.
-          don't leave house if you don,t feel well.
+          don't leave house if you don,t feel well. 
         </Desc>
         <SocialContainer>
           <SocialIcon color="3B5999">
@@ -126,7 +126,7 @@ const Footer = () => {
         </List>
       </Center>
       <Right>
-        <Title>Contact</Title>
+        <Title>Contact us </Title>
         <ContactItem>
           <Room style={{marginRight:"10px"}}/> No.31,Lellopitiya,Ratnapura,Sri Lanka.
         </ContactItem>
@@ -134,7 +134,7 @@ const Footer = () => {
           <Phone style={{marginRight:"10px"}}/> +94719175030
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{marginRight:"10px"}} /> contact@onlinestore.dev
+          <MailOutline style={{marginRight:"10px"}} /> contact@onlinestore.lk
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
