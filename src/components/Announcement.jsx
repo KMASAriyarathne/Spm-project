@@ -12,7 +12,7 @@ const Container = styled.div`
 `;
 
 const Announcement = () => {
-  return <Container>Super Deal! 25% take off over 110 $ </Container>;
+  return <Container>Super Deal! 30% take off over 150 $ </Container>;
 };
 
 export default Announcement;
